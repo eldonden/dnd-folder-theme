@@ -1,0 +1,78 @@
+/* D&D 5e basiertes Ordnerfarbschema */
+
+/* Spielercharaktere */
+.directory .folder-header[data-folder-name*="Spieler"] {
+  background-color: #305060;
+  color: #fff;
+}
+
+/* NSCs */
+.directory .folder-header[data-folder-name*="NSC"],
+.directory .folder-header[data-folder-name*="NPC"] {
+  background-color: #6B4E31;
+  color: #fff;
+}
+
+/* Monster */
+.directory .folder-header[data-folder-name*="Monster"] {
+  background-color: #8A2E2E;
+  color: #fff;
+}
+
+/* Begleiter / Tiere */
+.directory .folder-header[data-folder-name*="Begleiter"],
+.directory .folder-header[data-folder-name*="Tier"] {
+  background-color: #4A6A52;
+  color: #fff;
+}
+
+/* Lore / Hintergrund */
+.directory .folder-header[data-folder-name*="Lore"],
+.directory .folder-header[data-folder-name*="Hintergrund"] {
+  background-color: #3D3D4E;
+  color: #fff;
+}
+
+/* Orte / Dungeons */
+.directory .folder-header[data-folder-name*="Ort"],
+.directory .folder-header[data-folder-name*="Dungeon"],
+.directory .folder-header[data-folder-name*="Stadt"] {
+  background-color: #5B7E91;
+  color: #fff;
+}
+
+/* Magie */
+.directory .folder-header[data-folder-name*="Magie"],
+.directory .folder-header[data-folder-name*="Zauber"] {
+  background-color: #6E4FB3;
+  color: #fff;
+}
+
+/* Kampf / Encounters */
+.directory .folder-header[data-folder-name*="Kampf"],
+.directory .folder-header[data-folder-name*="Encounter"] {
+  background-color: #B0413E;
+  color: #fff;
+}
+
+/* Gegenstände / Loot */
+.directory .folder-header[data-folder-name*="Gegenstand"],
+.directory .folder-header[data-folder-name*="Loot"],
+.directory .folder-header[data-folder-name*="Inventar"] {
+  background-color: #967444;
+  color: #000;
+}
+
+/* Hausregeln */
+.directory .folder-header[data-folder-name*="Hausregel"],
+.directory .folder-header[data-folder-name*="Homebrew"] {
+  background-color: #446677;
+  color: #fff;
+}
+
+/* Fraktionen */
+.directory .folder-header[data-folder-name*="Fraktion"],
+.directory .folder-header[data-folder-name*="Gilde"] {
+  background-color: #7C3F58;
+  color: #fff;
+}
