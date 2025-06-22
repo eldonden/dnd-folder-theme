@@ -1,17 +1,17 @@
 {
   "name": "dnd-folder-theme",
   "title": "D&D 5e Ordnerfarben Theme",
-  "description": "Ein Theme-Modul für Foundry VTT, das Ordnerfarben basierend auf D&D 5e Kategorien anwendet.",
+  "description": "Ein Theme-Modul für Foundry VTT, das Ordnerfarben anhand von Namenn anwendet.",
   "version": "1.0.0",
-  "author": "ChatGPT",
+  "author": "eldonden",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "11",
   "styles": ["styles.css"],
   "esmodules": [],
   "scripts": [],
   "packs": [],
-  "languages": [],
-  "url": "https://github.com/DEIN_BENUTZERNAME/dnd-folder-theme",
-  "manifest": "https://DEIN_BENUTZERNAME.github.io/dnd-folder-theme/module.json",
-  "download": "https://DEIN_BENUTZERNAME.github.io/dnd-folder-theme/dnd-folder-theme.zip"
+  "languages": [de],
+  "url": "https://github.com/eldonden/dnd-folder-theme",
+  "manifest": "https://eldonden.github.io/dnd-folder-theme/module.json",
+  "download": "https://eldonden.github.io/dnd-folder-theme/dnd-folder-theme.zip"
 }
