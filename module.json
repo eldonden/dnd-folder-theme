@@ -1,7 +1,7 @@
 {
-  "id": "dnd-folder-theme"
+  "id": "dnd-folder-theme",
   "name": "dnd-folder-theme",
-  "title": "D&D 5e Ordnerfarben Theme",
+  "title": "DnD 5e Ordnerfarben Theme",
   "description": "Ein Theme-Modul für Foundry VTT, das Ordnerfarben anhand von Namenn anwendet.",
   "version": "1.0.0",
   "author": "eldonden",
