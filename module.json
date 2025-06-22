@@ -10,7 +10,7 @@
   "esmodules": [],
   "scripts": [],
   "packs": [],
-  "languages": [de],
+  "languages": [],
   "url": "https://github.com/eldonden/dnd-folder-theme",
   "manifest": "https://eldonden.github.io/dnd-folder-theme/module.json",
   "download": "https://eldonden.github.io/dnd-folder-theme/dnd-folder-theme.zip"
